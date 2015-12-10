@@ -1,0 +1,90 @@
+﻿#main{
+	background:url(file:///C|/wamp/www/fyp/grav.jpg);
+	width:900px;
+	border:3px solid #333333;
+	height:800px;
+	background-image:url('../images/grav.jpg');
+	border-left-style:solid;
+	position:absolute;
+	right:20%;
+	 
+	border-radius:2px;
+	border-bottom-style:hidden;
+	font-size: 17px;
+	
+}
+
+
+
+#logo{
+     position:absolute;
+     width:200px;
+     height:150px;
+     border:1px;
+     background:url('../oel.jpg');
+     margin-left:5px;
+     margin-top:-55px
+     
+     
+
+	  
+}
+
+#table{
+	background:url('../gtr.jpg');
+	color:yellow;
+	
+}
+
+#button{
+	margin-left:40px;
+	 
+}
+	
+#button2{
+	margin-left:400px;
+	 
+}
+	
+#templatemo_container{
+	width:960px;
+	margin-left:400px;
+	
+	
+
+}
+
+
+.buy_now_button{
+	width: 100px;
+	padding: 4px 0 5px 0; 
+	border-radius: 4px;
+	color: #FFFFFF;	
+	background-color:orange
+}
+
+#PageFooter1
+{
+   background-color: #FF8C00;
+}
+
+#TextArea1
+{
+   border: 1px #808080 solid;
+   background-color: #FFFFFF;
+   color :#8000FF;
+   font-family: Verdana;
+   font-weight: normal;
+   font-size: 16px;
+   margin-bottom:45px;
+   padding: 2px 2px 2px 2px;
+   text-align: left;
+   resize: none;
+   position:absolute;
+   left:220px;
+   top:760px;
+   width:620px;
+   height:261px;
+   z-index:14;"
+}
+
